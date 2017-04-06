@@ -1,0 +1,6 @@
+D:\dev\C-SHARP\varaibles\varaibles\bin\Debug\varaibles.exe.config
+D:\dev\C-SHARP\varaibles\varaibles\bin\Debug\varaibles.exe
+D:\dev\C-SHARP\varaibles\varaibles\bin\Debug\varaibles.pdb
+D:\dev\C-SHARP\varaibles\varaibles\obj\Debug\varaibles.csprojResolveAssemblyReference.cache
+D:\dev\C-SHARP\varaibles\varaibles\obj\Debug\varaibles.exe
+D:\dev\C-SHARP\varaibles\varaibles\obj\Debug\varaibles.pdb
