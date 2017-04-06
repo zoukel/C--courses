@@ -1,0 +1,6 @@
+D:\dev\C-SHARP\firstapp\firstapp\bin\Debug\firstapp.exe.config
+D:\dev\C-SHARP\firstapp\firstapp\bin\Debug\firstapp.exe
+D:\dev\C-SHARP\firstapp\firstapp\bin\Debug\firstapp.pdb
+D:\dev\C-SHARP\firstapp\firstapp\obj\Debug\firstapp.csprojResolveAssemblyReference.cache
+D:\dev\C-SHARP\firstapp\firstapp\obj\Debug\firstapp.exe
+D:\dev\C-SHARP\firstapp\firstapp\obj\Debug\firstapp.pdb
