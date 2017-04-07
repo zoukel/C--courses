@@ -1,0 +1,6 @@
+D:\dev\C-SHARP\DataType\DataType\bin\Debug\DataType.exe.config
+D:\dev\C-SHARP\DataType\DataType\bin\Debug\DataType.exe
+D:\dev\C-SHARP\DataType\DataType\bin\Debug\DataType.pdb
+D:\dev\C-SHARP\DataType\DataType\obj\Debug\DataType.csprojResolveAssemblyReference.cache
+D:\dev\C-SHARP\DataType\DataType\obj\Debug\DataType.exe
+D:\dev\C-SHARP\DataType\DataType\obj\Debug\DataType.pdb
